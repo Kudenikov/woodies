@@ -1,0 +1,13 @@
+.top-zone__logo-text {
+    width: 154px;
+    height: 33px;
+    position: absolute;
+    left: 118px;
+    top: 23px;
+    font-family: 'Nunito';
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: .25em;
+    color: #3E3F43;
+    z-index: 1;
+}

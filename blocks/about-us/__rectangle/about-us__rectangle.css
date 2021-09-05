@@ -1,0 +1,11 @@
+.about-us__rectangle {
+    position: absolute;
+    left: 0;
+    top: 138px;
+    width: 278px;
+    height: 388px;
+    background-color: #F7DEA6;
+    background-size: cover;
+    border-radius: 0 100px 0 100px;
+    z-index: 0;
+}

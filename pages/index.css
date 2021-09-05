@@ -1,0 +1,33 @@
+@import url(../vendor/normalize.css);
+@import url(../fonts/fonts.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/top-zone/top-zone.css);
+@import url(../blocks/top-zone/__logo-item/top-zone__logo-item-1.css);
+@import url(../blocks/top-zone/__logo-item/top-zone__logo-item-2.css);
+@import url(../blocks/top-zone/__logo-item/top-zone__logo-item-3.css);
+@import url(../blocks/top-zone/__logo-item/top-zone__logo-item-4.css);
+@import url(../blocks/top-zone/__logo-text/top-zone__logo-text.css);
+@import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/__item/menu__item.css);
+@import url(../blocks/header/__pink-rectangle/header__pink-rectangle.css);
+@import url(../blocks/header/__picture/header__picture.css);
+@import url(../blocks/header/__button/header__button.css);
+@import url(../blocks/header/__button/_text/header__button_text.css);
+@import url(../blocks/header/__answer/header__answer.css);
+@import url(../blocks/middle-size-text/middle-size-text.css);
+@import url(../blocks/middle-size-text/_position/middle-size-text_position_header.css);
+@import url(../blocks/middle-size-text/_position/middle-size-text_position_about-us.css);
+@import url(../blocks/small-size-text/small-size-text.css);
+@import url(../blocks/small-size-text/_position/small-size-text_position_about-us-1.css);
+@import url(../blocks/span-accent/span-accent.css);
+@import url(../blocks/about-us/about-us.css);
+@import url(../blocks/about-us/__rectangle/about-us__rectangle.css);
+@import url(../blocks/about-us/__picture/_left/about-us__picture_left.css);
+@import url(../blocks/title/title.css);
+@import url(../blocks/title-question/title-question.css);
+
+/*
+div, p, a {
+    border: red solid 1px;
+}
+*/

@@ -1,0 +1,9 @@
+.menu__item {
+    text-decoration: none;
+    color: rgba(34, 34, 34, 0.75);
+    z-index: 3;
+}
+
+.menu__item:hover {
+    color: #DAA520;
+}

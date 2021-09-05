@@ -1,0 +1,11 @@
+.middle-size-text {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 49px;
+    color: #3E3F43;
+    z-index: 1;
+    margin: 0;
+    padding: 0;
+}

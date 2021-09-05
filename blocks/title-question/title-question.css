@@ -1,0 +1,15 @@
+.title-question {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 24px;
+    left: 0;
+    width: 212px;
+    height: 49px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 49px;
+    color: #3E3F43;
+}

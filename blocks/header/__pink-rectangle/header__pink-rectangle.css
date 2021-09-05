@@ -1,0 +1,12 @@
+.header__pink-rectangle {
+    width: 370px;
+    height: 800px;
+    background-color: #F9BDBD;
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 0 0 0 100px;
+    z-index: 0;
+
+}

@@ -1,0 +1,10 @@
+.about-us__picture_left {
+    position: absolute;
+    left: 38px;
+    top: 220px;
+    width: 388px;
+    height: 306px;
+    background-image: url(../../../../images/Kalmar-Home-7-pc-Acacia-Wood-Salad-Bowl-Set\ 1.png);
+    object-fit: cover;
+    z-index: 1;
+}

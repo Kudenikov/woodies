@@ -1,0 +1,12 @@
+.header__button {
+    width: 175px;
+    height: 50px;
+    position: absolute;
+    top: 543px;
+    left: 102px;
+    background-color: #DAA520;
+    background-size: cover;
+    border-radius: 4px;
+    z-index: 0;
+    text-decoration: none;
+}

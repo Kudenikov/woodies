@@ -1,0 +1,10 @@
+.header__button_text {
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 16px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: bold;
+    z-index: 1;
+    text-align: center;
+}
